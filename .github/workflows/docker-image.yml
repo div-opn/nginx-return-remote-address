@@ -28,5 +28,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/div-opn/nginx-return-remote-address:latest
             docker.io/opndiverseco/nginx-return-remote-address:latest
